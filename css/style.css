@@ -1,0 +1,174 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #ffffff;
+	font-family: "Trirong", serif;
+}
+.clear{
+	clear: none;
+}
+header .inicial{
+	width: 100%;
+	padding: 10px 0;
+	display: block;
+	margin-top: 0;
+	background-color: #f5f5f5;;
+	text-align: center;
+}
+.header_principal{
+	width: 100%;
+	margin: 0;
+	height: auto;
+	display: inline-block;
+	padding: 10px 0 30px;
+	background-color: #02aebb;
+	text-align: center;
+}
+.header_principal h1,p{
+	word-wrap: normal;
+	word-break: keep-all !important;
+	box-sizing: border-box;
+}
+
+.container{
+	left: 30%;
+	position: relative;
+	float: left;
+	margin-left: 5px;
+	display: inline-block;
+	padding: 30px 10px 15px;
+}
+
+.img_comp img{
+	width: 416px;
+	height: auto;
+	border-radius: 5px;
+	max-width: 100%;
+}
+.componentes{
+	display:block;
+	width: 46%;
+	margin-left: 0;
+	margin-top: 0;
+	/*padding: 30px 30px 15px;*/
+	border-radius: 10px;
+	width: 416px;
+	height: auto;
+	max-width: 100%;
+}
+header .form_titulo{
+	background-color: #02aebb;
+	border-radius: 5px 5px 0 0;
+	display: inline-block;
+	text-align: center;
+	padding-bottom: 0;
+	width: 346px;
+	height: auto;
+}
+nav form{
+	width: 100%;
+	height: auto;
+	max-width: 346px;
+	padding-top: 0;
+	background-color: #f4f4f4;
+}
+nav .container_form{
+	width:100%;
+	display: inline-block;
+	max-width: 70%;
+}
+nav form h4,input{
+	margin-top: 0;
+	margin-left: 40px;
+	padding-top: 15px;
+}
+nav form input{
+	display: block;
+	background-color: white;
+	font-size: 18px;
+	line-height: 20px;
+	width: 100%;
+	height: 20px;
+	padding: 5px;
+	border: solid 1px #dddddd;
+	border-radius: 3px;
+}
+nav form .coments{
+	font-size: 10px;
+	width: 100%;
+	height: auto;
+}
+nav form .coments p{
+	margin-left: 25px;
+}
+nav form .submit_enviar input{
+	width: 73%;	
+	height: 50px;
+	background-color: #573a8b;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+.submit_enviar:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+form p{
+	margin-top: 25px;
+	margin-left: 25px;
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+form{
+	background-color: #f4f4f4;
+	padding: 30px 30px 15px;
+	width: 346px;
+	height: 560px;
+}
+form .form_titulo{
+	text-align: center;
+	margin-top: 0;
+	padding: 0 0;
+	width: 100%;
+	height: auto;
+	background-color: #02aebb;
+}
+*/
+
+
+
